@@ -11,7 +11,7 @@ White hat hacker has sent SQLPD exposed members' details of a shady site connect
 Please submit all members' details.    
 Un hacker de sombrero blanco ha enviado a SQLPD los datos de los miembros expuestos de un sitio turbio relacionado con varias personas de interés. Por favor, envíe los detalles de todos los miembros.  
 
-> SELECT * from users
+> SELECT * FROM users;
 
 
 ### 2.
@@ -19,7 +19,7 @@ An illegal site's servers were seized in a recent operation. Please submit all u
 ***Los servidores de un sitio ilegal fueron incautados en una reciente operación.   
 Por favor, envíe todos los datos de acceso de los usuarios y el número de descargas.***   
 
-> SELECT AccessTime from users;
+> SELECT AccessTime FROM users;
 
 ![](2.png)
 
