@@ -3,6 +3,7 @@
 ## Descargar: App-main
 ## Ejecutar: $python wsgi.py
 ===================================================
+![](imagen.png)
 
 Entender la web y el protocolo que lo hace posible (http) debería ser una asignatura obligatoria de cualquier disciplina técnica. La interfaz web es el canal de comunicación e interacción más importante del mundo actual y por ende, todo profesional de IA debería tener unos conocimientos mínimos sobre cómo funciona.
 
