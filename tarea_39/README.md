@@ -35,11 +35,22 @@ Para realizar la tarea debes:
 1.- [Instalar](https://www.youtube.com/results?search_query=instalar%2Bpacket%2Btracer) el software en tu ordenador.   
 2.- [Empezar a entender](https://www.youtube.com/watch?v=aR032ROLdro) cómo trabajar con este software y a profundizar en conceptos adquiridos en anteriores tareas.  
 3.- Montar en el simulador las siguientes redes (añadimos links con la resolución):  
-    a.- [Red con servidor web y servidor de DNS](https://sites.google.com/site/jramon208/inicio/redes/ejerciciospackettracer/webdns)  
+    a.- [Red con servidor web y servidor de DNS](https://sites.google.com/site/jramon208/inicio/redes/ejerciciospackettracer/webdns)    
+    ![ejercicio1](ejerc1.png)  
+    [ejercicio 1](https://github.com/zumaia/theegg/blob/master/tarea_39/ejercicio%201.pkt)  
     b.- [Red con servidor DHCP](https://sites.google.com/site/jramon208/inicio/redes/ejerciciospackettracer/red-con-servidor-dhcp)  
+    ![ejercicio2](ejerc2.png)  
+    [ejercicio 2](https://github.com/zumaia/theegg/blob/master/tarea_39/ejercicio%202.pkt)  
     c.- [Red VLAN básica](https://sites.google.com/site/jramon208/inicio/redes/ejerciciospackettracer/red-vlan-bsica)  
+    ![ejercicio3](ejerc3.png)  
+    [ejercicio 3](https://github.com/zumaia/theegg/blob/master/tarea_39/ejercicio%203.pkt)  
     d.- [Unir dos redes VLAN con un router](https://sites.google.com/site/jramon208/inicio/redes/ejerciciospackettracer/unir-dos-redes-vlan-con-un-router-cisco)  
+    ![ejercicio4.1](4.1.png)
+    ![ejercicio4.2](4.2.png)  
+    [ejercicio 4](https://github.com/zumaia/theegg/blob/master/tarea_39/ejercicio%204.pkt)  
     e.- [Enrutamiento estático](https://sites.google.com/site/jramon208/inicio/redes/ejerciciospackettracer/enrutamiento-esttico)  
+    ![ejercicio5](ejerc5.png)  
+    [ejercicio 5](https://github.com/zumaia/theegg/blob/master/tarea_39/ejercicio%205.pkt)  
 
 Nota:  
 Incluimos un par de PDF-s a para ayudaros.
