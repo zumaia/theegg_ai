@@ -1,5 +1,6 @@
 # Simulador de redes
 
+Cada ejercicio está detallado en la parte inferior del readme.
 
 En tareas anteriores hemos podido ver cómo funcionan las redes informáticas y cómo hoy en día es cada vez más complicado 
 imaginar que hace no tanto tiempo las computadoras funcionaban como dispositivos aislados unos de otros. 
