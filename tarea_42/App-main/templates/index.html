@@ -1,112 +1,87 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="">
-	<meta name="Oscar Rojo Martin" content="">
-	<link rel="icon" href="../static/img/file_type_html_icon_130541.ico">
-	<title>The Egg- HTML5 - Oscar Rojo</title>
-	<link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/carousel/">
-<!-- Bootstrap core CSS -->
-	<link href="./static/css/bootstrap.min.css" rel="stylesheet">
-	<!-- Custom styles for this template -->
-	<link href="./static/css/carousel.css" rel="stylesheet">
-	</head>
-	<body>
-		<header>
-			<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-				<a class="navbar-brand" href="/">The Egg- HTML5 - Oscar Rojo</a>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>
-				<div class="collapse navbar-collapse" id="navbarCollapse">
-					<ul class="navbar-nav mr-auto">
-						<li class="nav-item active">
-							<a class="nav-link" href="/video">Video</a>
-						</li>
-						<li class="nav-item active">
-							<a class="nav-link" href="/material">Material</a>
-						</li>
-						<li class="nav-item active">
-							<a class="nav-link" href="/historia">Historia</a>
-						</li>
-					</ul>
-				</div>
-			</nav>
-		</header>
-		<main role="main">
-			<div id="myCarousel" class="carousel slide" data-ride="carousel">
-				<ol class="carousel-indicators">
-					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-					<li data-target="#myCarousel" data-slide-to="1"></li>
-					<li data-target="#myCarousel" data-slide-to="2"></li>
-				</ol>
-				<div class="carousel-inner">
-					<div class="carousel-item active">
-						<img class="first-slide" src="../static/img/ia.jpg" alt="First slide">
-							<div class="container">
-								<div class="carousel-caption text-left">
-									<h1>HTML5</h1>
-									<p>Entender la web y el protocolo que lo hace posible (http) debería ser una
-										asignatura obligatoria de cualquier disciplina técnica. La interfaz web es el
-										canal de comunicación e interacción más importante del mundo actual y por ende,
-										todo profesional de IA debería tener unos conocimientos mínimos sobre cómo funciona.</p>
-								</div>
-							</div>
-						</div>
-						<div class="carousel-item">
-							<img class="second-slide" src="../static/img/world.jpg" alt="Second slide">
-								<div class="container">
-									<div class="carousel-caption">
-										<h1>HTML5</h1>
-										<p>Sabemos que en toda aplicación web tenemos la parte del cliente (frontend/navegador)
-											y la del servidor (backend) y que por lo tanto el universo web obedece al
-											paradigma cliente-servidor que ya debería sonarnos.</p>
-									</div>
-								</div>
-							</div>
-							<div class="carousel-item">
-								<img class="third-slide" src="../static/img/light.jpg" alt="Third slide">
-									<div class="container">
-										<div class="carousel-caption text-right">
-											<h1>HTML5</h1>
-											<p>En la parte del cliente-frontend el alumno debería saber que HTML es el
-												lenguaje de marcado que los navegadores saben interpretar y que desde
-												que Internet se universalizó han existido diferentes versiones de este.
-												Debemos tomar en cuenta de que realmente cuando se habla de diferentes
-												versiones de HTML no se habla sólo de este lenguaje de marcado sino de
-												este en colaboración con otros, especialmente de CSS y de javascript.</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-								<span class="sr-only">Previous</span>
-							</a>
-							<a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-								<span class="carousel-control-next-icon" aria-hidden="true"></span>
-								<span class="sr-only">Next</span>
-							</a>
-						</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="Oscar Rojo Martin" content="">
+  <link rel="icon" href="../static/img/file_type_html_icon_130541.ico">
+  <title>The Egg- HTML5 - Oscar Rojo</title>
+  <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/carousel/"><!-- Bootstrap core CSS -->
+  <link href="./static/css/bootstrap.min.css" rel="stylesheet"><!-- Custom styles for this template -->
+  <link href="./static/css/carousel.css" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <a class="navbar-brand" href="/">The Egg- HTML5 - Oscar Rojo</a>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="/video">Video</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="/material">Material</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="/historia">Historia</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators"></ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="first-slide" src="../static/img/ia.jpg" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption text-left">
+              <h1>HTML5</h1>
+              <p>Entender la web y el protocolo que lo hace posible (http) debería ser una asignatura obligatoria de cualquier disciplina técnica. La interfaz web es el canal de comunicación e interacción más importante del mundo actual y por ende, todo profesional de IA debería tener unos conocimientos mínimos sobre cómo funciona.</p>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="second-slide" src="../static/img/world.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>HTML5</h1>
+              <p>Sabemos que en toda aplicación web tenemos la parte del cliente (frontend/navegador) y la del servidor (backend) y que por lo tanto el universo web obedece al paradigma cliente-servidor que ya debería sonarnos.</p>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img class="third-slide" src="../static/img/light.jpg" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption text-right">
+              <h1>HTML5</h1>
+              <p>En la parte del cliente-frontend el alumno debería saber que HTML es el lenguaje de marcado que los navegadores saben interpretar y que desde que Internet se universalizó han existido diferentes versiones de este. Debemos tomar en cuenta de que realmente cuando se habla de diferentes versiones de HTML no se habla sólo de este lenguaje de marcado sino de este en colaboración con otros, especialmente de CSS y de javascript.</p>
+            </div>
+          </div>
+        </div>
+      </div><a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev"><span class="sr-only">Previous</span></a> <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next"><span class="sr-only">Next</span></a>
+    </div><!-- /.container -->
+    <!-- FOOTER -->
+    <footer class="container">
+      <p class="float-right"><a href="#">Arriba</a></p>
+    </footer>
+  </main><!-- Bootstrap core JavaScript
+                                                        ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script> 
+  <script>
 
-																<!-- /.container -->
-																<!-- FOOTER -->
-																<footer class="container">
-																	<p class="float-right">
-																		<a href="#">Arriba</a>
-																	</p>
-																</footer>
-															</main>
-															<!-- Bootstrap core JavaScript
-							================================================== -->
-															<!-- Placed at the end of the document so the pages load faster -->
-															<script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
-															<script>window.jQuery || document.write('
-																<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')
-																</script>
-																<script src="./static/js/vendor/popper.min.js"></script>
-																<script src="./static/js/bootstrap.min.js"></script>
-																<!-- Just to make our placeholder images work. Don't actually copy the next line! -->
-																<script src="./static/js/holder.min.js"></script>
-															<p>&copy; 2020 Oscar Rojo<a class="nav-link" href="www.oscarrojo.es">Oscar Rojo</a><p>
-	<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional</a>
-															</body>
-														</html>
+  window.jQuery || document.write('
+                                                                                                                                <script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')
+  </script> 
+  <script src="./static/js/vendor/popper.min.js"></script> 
+  <script src="./static/js/bootstrap.min.js"></script> <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+   
+  <script src="./static/js/holder.min.js"></script>
+  <p>© 2020 Oscar Rojo<a class="nav-link" href="www.oscarrojo.es">Oscar Rojo</a></p>
+  <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"></a><br>
+  Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional</a></p>
+</body>
+</html>
