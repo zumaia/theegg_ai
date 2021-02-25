@@ -1,0 +1,141 @@
+tipo;autonomia;provincia;matricula;causa;poblacion;fechahora_ini;nivel;carretera;sentido;longitud;latitud
+;Euskadi;BIZKAIA;BI;Otros;Maruri-Jatabe;2021-02-25 21:32:52;Amarillo;BI-2120;PLENTZIA;-2.89064;43.38925
+;Euskadi;BIZKAIA;BI;Avería;Berango;2021-02-25 21:15:37;Blanco;BI-637;KUKULARRA;-3.00088;43.36999
+;Euskadi;GIPUZKOA;SS;Obras;Bergara;2021-02-25 21:08:26;Blanco;AP-1;Madrid;-2.4338;43.09699
+;Euskadi;BIZKAIA;BI;Avería;Erandio;2021-02-25 21:03:52;Amarillo;BI-738;Artaza;-2.99608;43.33038
+;Euskadi;ARABA;VI;Avería;Ribera Alta;2021-02-25 20:51:07;Amarillo;AP-68;ZARAGOZA;-2.894033;42.83658
+;Euskadi;GIPUZKOA;SS;Obras;Irura;2021-02-25 20:36:22;Blanco;N-1;IRÚN;-2.0669;43.15613
+;Euskadi;GIPUZKOA;SS;Obras;Alegia;2021-02-25 20:19:14;Blanco;N-1;IRÚN;-2.092851;43.11148
+;Euskadi;ARABA;VI;Obras;Legutiano;2021-02-25 19:23:36;Amarillo;AP-1;Eibar;-2.605657;42.96796
+;Euskadi;BIZKAIA;BI;Obras;Zeanuri;2021-02-25 06:02:42;Amarillo;N-240;BILBAO;-2.737764;43.08524
+;Euskadi;BIZKAIA;BI;Obras;Galdakao;2021-02-25 06:02:25;Amarillo;N-634;SANTANDER;-2.849825;43.23083
+;Euskadi;BIZKAIA;BI;Obras;Galdakao;2021-02-25 06:02:10;Blanco;N-634;DONOSTIA/SAN SEBASTIÁN;-2.849825;43.23083
+;Euskadi;GIPUZKOA;SS;Obras;Bergara;2021-02-25 06:01:23;Blanco;AP-1;Eibar;-2.42486;43.13113
+;Euskadi;BIZKAIA;BI;Obras;Leioa;2021-02-25 06:00:47;Blanco;BI-637;KUKULARRA;-2.97815;43.32099
+;Euskadi;GIPUZKOA;SS;Desprendimiento;Zarautz;2021-02-25 06:00:28;Amarillo;N-634;DONOSTIA/SAN SEBASTIÁN;-2.18204;43.29289
+;Euskadi;GIPUZKOA;SS;Obras;Usurbil;2021-02-25 06:00:10;Amarillo;N-634;DONOSTIA/SAN SEBASTIÁN;-2.03517;43.27491
+;Euskadi;BIZKAIA;BI;Obras;Arantzazu;2021-02-25 05:59:49;Amarillo;N-240;BILBAO;-2.69492;43.04657
+;Euskadi;BIZKAIA;BI;Obras;Arrigorriaga;2021-02-25 05:59:25;Blanco;AP-68;BILBAO;-2.893752;43.20781
+;Euskadi;BIZKAIA;BI;Obras;Berriatua;2021-02-25 05:58:43;Amarillo;BI-633;ONDARROA (POR TRABAKUA);-2.47519;43.29705
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-631;GALDAKAO;-2.90585;43.26947
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-3600;ALTUBE;-2.78823;42.94734
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-624;BALMASEDA;-2.87056;42.97685
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;AP-68;BILBAO;-2.87355;42.95619
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;AP-68;ZARAGOZA;-2.87328;42.95671
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2631;ORIO;-2.13434;43.20257
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-2120;PLENTZIA;-2.90827;43.397929999999995
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3591;OÑATI;-2.4010499999999997;42.97943
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;N-634;SANTANDER;-2.53198;43.182449
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3420;LESAKA;-1.79623;43.27287
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-627;EIBAR;-2.57162;42.97571
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-633;ONDARROA;-2.55292;43.200579999999995
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3301;EIBAR;-2.44673;43.20534
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-631;BERMEO;-2.87457;43.32093
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3631;OIARTZUN;-1.81529;43.24702
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3741;NO DISPONIBLE;-2.915615;43.272737
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-2224;MARKINA-XEMEIN;-2.60715;43.27245
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3325;GERNIKA-LUMO;-2.71834;43.24371
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-2701;NO DISPONIBLE;-3.160829;43.22867
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-132  ;NAVARRA;-2.50994;42.789609999999996
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2634;ELGOIBAR;-2.35859;43.20256
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3210;AZKARATE;-2.3620799999999997;43.203109999999995
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;N-240  ;BILBAO;-2.71158;43.0657
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-631;BERMEO;-2.76024;43.4045
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-2521;URDUÑA-ORDUÑA;-2.95541;42.98948
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3621;NO DISPONIBLE;-3.09278;43.187788999999995
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-2126;BERNEDO;-2.47761;42.59693
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2634;ELGOIBAR;-2.16201;43.15233
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3513;OROZKO;-2.82888;43.11052
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3231;NO DISPONIBLE;-2.625003;43.250516999999995
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-636;DURANGO;-2.3501399999999997;43.08818
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-2543;VITORIA-GASTEIZ;-2.68445;43.07546
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2632;DURANGO;-2.261692;43.05027
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3750;BERGARA;-2.37735;43.12795
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-604;NO DISPONIBLE;-2.9595279999999997;43.292138
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3454 ;NO DISPONIBLE;-1.756611;43.305225
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-630;KARRANTZA HARANA/VALLE DE CARRANZA;-3.29316;43.2372
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;N-1;IRUN;-2.22672;42.946
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;N-1;MADRID;-2.22672;42.946
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-636;IRUN;-1.84956;43.32983
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3732;NO DISPONIBLE;-2.920473;43.27361
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-3632;OKONDO;-2.99024;43.16468
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-2124;VITORIA-GASTEIZ;-2.68026;42.779939999999996
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3310;ESKORIATZA;-2.5718199999999998;42.97721
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-2622;NO DISPONIBLE;-2.957076;42.79394
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-2224;MARKINA-XEMEIN;-2.57207;43.25226
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-636;CADAGUA;-3.17326;43.20313
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-2124;LAGUARDIA;-2.68236;42.59599
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3601;SOPUERTA;-3.17067;43.29998
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-633;ELGOIBAR;-2.1620299999999997;43.15236
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2634;NO DISPONIBLE;-2.161661;43.152409999999996
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;N-634;SANTANDER;-2.32911;43.27872
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3421;ERMITA IZASKUN;-2.06387623;43.13872873
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3440;HONDARRIBIA;-1.85191;43.35037
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;N-636;DURANGO;-2.50561;43.09673
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2639;EIBAR;-2.48012;43.14825
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-636;CORREDOR DEL CADAGUA;-2.970536;43.26224
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-2620;ARRASATE-MONDRAGÓN;-2.58044;43.027339999999995
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3755;LA ARBOLEDA;-3.04923;43.2905
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3448;NO DISPONIBLE;-2.542262;43.27733
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2120;BEASAIN;-2.0988599999999997;42.96017
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2635;BEASAIN;-2.24505;43.086929999999995
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2633;IRAETA;-2.20987;43.28109
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-2405;NO DISPONIBLE;-2.493521;43.324842
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3321;NO DISPONIBLE;-2.5550289999999998;43.145579
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3148;MORGA;-2.75744;43.28338
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3332;MUXIKA;-2.6719999999999997;43.222699999999996
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3720;ALBIZTUR;-2.18343;43.12249
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-2128;CAMPEZO/KANPEZU;-2.3318;42.814789999999995
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2637;ALTSASU/ALSASUA;-2.25927;42.93844
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2632;ELORRIO;-2.4875;43.13654
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-2632;BERGARA;-2.4875;43.13654
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3101;NO DISPONIBLE;-2.7551859999999997;43.445561999999995
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3524;NO DISPONIBLE;-2.798746;43.136945
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-631;BERMEO;-2.76024;43.4045
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3622;LANESTOSA;-3.41185;43.21646
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2630;BERGARA;-2.35887;43.01489
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-3631;NO DISPONIBLE;-3.09558;43.234386
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-2704;PLENTZIA;-2.92713;43.33895
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-2625;URDUÑA-ORDUÑA;-3.02093;42.956109999999995
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-2636;NO DISPONIBLE;-2.443974;43.24138
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;BI-623;VITORIA-GASTEIZ;-2.6461099999999997;43.10103
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-3740;BIDANIA;-2.18842;43.15072
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;GI-2130;LEITZA;-1.95572;43.102599999999995
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;A-3102;TREVIÑO;-2.72843;42.79067
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;T: Abierto C: Abierto A: Abierto;N-634;SANTANDER;-2.1373979999999997;43.27259
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;A-1;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;A-1;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;A-1;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;A-1;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;A-124;NO DISPONIBLE;0.0;0.0
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;;A-15;NO DISPONIBLE;0.0;0.0
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;;A-15;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;A-2622;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;A-3126;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;A-3130;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;A-623;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;A-625;NO DISPONIBLE;0.0;0.0
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;;A-8;NO DISPONIBLE;0.0;0.0
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;;A-8;NO DISPONIBLE;0.0;0.0
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;;A-8;NO DISPONIBLE;0.0;0.0
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;;A-8;NO DISPONIBLE;0.0;0.0
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;;A-8;NO DISPONIBLE;0.0;0.0
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;;A-8;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;N-622;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;AP-1;EIBAR;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;AP-1;MADRID;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;AP-1;EIBAR;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;AP-1;BURGOS;0.0;0.0
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;;AP-1 ;NO DISPONIBLE;0.0;0.0
+;Euskadi;Gipuzkoa;SS;Desconocida;;2021-02-25 08:01:21.377;;AP-1 ;NO DISPONIBLE;0.0;0.0
+;Euskadi;Bizkaia;BI;Desconocida;;2021-02-25 08:01:21.377;;BI-623;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;N-124;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;N-240;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;N-240;NO DISPONIBLE;0.0;0.0
+;Euskadi;Alava-Araba;VI;Desconocida;;2021-02-25 08:01:21.377;;N-622;NO DISPONIBLE;0.0;0.0
+;Euskadi;;;Ciclismo;;2021-02-27 - 2021-02-27;;;;-2.25844;43.29127
+;Euskadi;;;Ciclismo;;2021-02-28 - 2021-02-28;;;;-2.450571;43.19074
+;Euskadi;;;Ciclismo;;2021-03-13 - 2021-03-13;;;;-2.96195;43.13267
+;Euskadi;;;Ciclismo;;2021-03-14 - 2021-03-14;;;;-2.994987;43.16784
+;Euskadi;;;Ciclismo;;2021-03-20 - 2021-03-20;;;;-3.117591;43.12845
+;Euskadi;;;Ciclismo;;2021-03-27 - 2021-03-27;;;;-3.04688;43.08019
