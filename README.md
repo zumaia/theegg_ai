@@ -18,3 +18,4 @@
 #### [Tarea 43 - SQL](https://github.com/zumaia/theegg_ai/tree/master/tarea_43)
 #### [Tarea 44 - RENDIMIENTO](https://github.com/zumaia/theegg_ai/tree/master/tarea_44)
 #### [Tarea 51 - SO](https://github.com/zumaia/theegg_ai/tree/master/tarea_51)
+#### [Tarea 62 - SCRIPTING](https://github.com/zumaia/theegg_ai/tree/master/tarea_62)
