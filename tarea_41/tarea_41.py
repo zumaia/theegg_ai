@@ -30,8 +30,29 @@ lista_palab = re.sub(r"<.+?>", "", str(texto))
 # Eliminamos los saltos de línea
 mytext = "".join(lista_palab.split("\n"))
 
+# Seleccionamos el parrafo correspondiente
+mytext= re.findall("congelación(.*?)Si tienes", mytext)
+
 # Modificamos a minusculas
-text_low = mytext.lower()
+text_low = [item.lower() for item in mytext]
+
+# Convertimos la lista de string en string
+def converttostr(input_seq, seperator):
+    """
+    Desc:
+    Function to convert List of strings to a string with a separator
+    """
+   # Join all the strings in list
+    final_str = seperator.join(input_seq)
+    return final_str
+
+seperator = ' '
+text_low = converttostr(text_low, seperator)
+
+# Eliminamos puntos y comas
+text_low = text_low.replace(",", "")
+text_low = text_low.replace(".", "")
+text_low = text_low.replace("…", "")
 
 # Generamos 2 str
 word_count = 0
