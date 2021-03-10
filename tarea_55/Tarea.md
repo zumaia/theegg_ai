@@ -4,7 +4,7 @@
 
 https://web.archive.org/web/20210119141400/https://www.neoguias.com/linea-de-comandos-windows/  
 
-Este es un resumen con los comandos que has aprendido en este tutorial:
+Este es un resumen con los comandos de este tutorial:
 
 Comando	 |   Significado	    |        Descripción
 --- | --- | ---  
@@ -35,7 +35,7 @@ ssh "usuario@host"|	Secure shell	|Iniciar conexión remota
 
 https://web.archive.org/web/20210119150156/https://www.neoguias.com/linea-de-comandos-linux/  
 
-Este es un resumen con los comandos que has aprendido en este tutorial:
+Este es un resumen con los comandos de este tutorial:
 
 Comando | 	Significado | 	Descripción
 --- | --- | ---  
