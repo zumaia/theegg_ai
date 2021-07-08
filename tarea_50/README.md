@@ -49,6 +49,10 @@ DICCIONARIO
 
 Ética | Inteligencia-Artificial | Datos 
 
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
 PUNTUACIÓN  
 
 Programación: 1  
