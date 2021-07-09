@@ -2,6 +2,14 @@
 
 ### El ejercicio está resuelto en ["tarea_44.md"](https://github.com/zumaia/theegg/tree/master/tarea_44/tarea_44.md)
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+
 
 A la hora de desarrollar software es importante analizar su complejidad, mantenibilidad y escalabilidad. 
 En este análisis el rendimiento de la aplicación se convierte en un factor clave. 
@@ -44,7 +52,7 @@ NOTA: [Debes subir el ejercicio a tu repositorio GitHub como siempre](https://gi
 
 ### #Notación-O-Grande #Big-O-Notation #algoritmos-de-ordenación #notación-asintótica #eficiencia #computación #algoritmia
 
-LINKS DE INTERÉS  
+### LINKS DE INTERÉS  
 
 https://www.youtube.com/watch?v=HEISXs0wYlM
 [![video](https://res.cloudinary.com/marcomontalbano/image/upload/v1613127591/video_to_markdown/images/youtube--HEISXs0wYlM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=HEISXs0wYlM "video")
@@ -59,11 +67,16 @@ https://www.campusmvp.es/recursos/post/Rendimiento-de-algoritmos-y-notacion-Big-
 https://www.youtube.com/watch?v=D6xkbGLQesk
 [![video](https://res.cloudinary.com/marcomontalbano/image/upload/v1613147271/video_to_markdown/images/youtube--D6xkbGLQesk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=D6xkbGLQesk "video")
 
-DICCIONARIO   
+### DICCIONARIO   
 
 Notación-asintótica | Notación-Big-O | Algoritmos-de-ordenación   
 
-PUNTUACIÓN   
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+### PUNTUACIÓN   
 
 Programación: 4   
 Redes: 2   
