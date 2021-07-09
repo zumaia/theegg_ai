@@ -1,5 +1,13 @@
 # Empezando con las redes de comunicación
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+
 ![](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Screenshots_2019/ip-adresse-EN-1.png)
 ¿Quién no ha hecho alguna vez un "teléfono" con 2 envases de yogur y un hilo para unirlos? Este podría ser un ejemplo gráfico de cómo funcionan las redes digitales:  
 
@@ -50,7 +58,7 @@ Nota: Debes saber que la IP no es la única dirección mágica que existe. Hay o
 
 ##### #redes-informáticas #dirección-IP   #protocolo-TCP-IP   #máscara-de-subred   #dirección-MAC #router #puerta-de-enlace #IP-pública #IP-privada #servidor-de-DNS #red-LAN #red-WAN
 
-LINKS DE INTERÉS
+### LINKS DE INTERÉS
 
 https://www.youtube.com/watch?v=4FHWE6QOgQE   
 https://openwebinars.net/blog/que-es-tcpip/   
@@ -67,11 +75,15 @@ http://www.portaleso.com/Redes/Ud_4_redes_V1_c.pdf
 https://www.xataka.com/basics/que-es-la-direccion-mac-de-tu-ordenador-del-movil-o-de-cualquier-dispositivo  
 
 
-DICCIONARIO
+### DICCIONARIO
 
 dirección-IP | Internet | red-WAN | red-LAN | máscara-de-subred | router | switch | TCP-IP | IP-pública | IP- privada
 
-PUNTUACIÓN
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+### PUNTUACIÓN
 
 Programación: 1  
 Redes: 6
