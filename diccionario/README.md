@@ -1,6 +1,6 @@
 # DICCIONARIO
 
-🖐️ 👷 🖥️ [codigo] 💻 🎆 📁 🗄️ 📂
+🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
 
 En este apartado detallo como estoy elaborando mi diccionario de terminos.
 
