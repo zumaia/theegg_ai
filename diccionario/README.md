@@ -1,5 +1,7 @@
 # DICCIONARIO
 
+🖐️ 👷 🖥️ [codigo] 💻 🎆 📁 🗄️ 📂
+
 En este apartado detallo como estoy elaborando mi diccionario de terminos.
 
 Para ello he utilizado Python para programar 2 programas (introducción de terminos y consulta) y de SQL donde guardo 
