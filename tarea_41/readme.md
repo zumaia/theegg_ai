@@ -7,6 +7,14 @@ Solicitará la url de la página a analizar:
 https://pegameunviaje.com/3-anecdotas-divertidas-de-mis-viajes/
 
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+
 ## Explicación de la tarea
 ### Entender que son las expresiones regulares y el manejo de estas con cierta solvencia
 
@@ -57,10 +65,15 @@ https://robologs.net/2019/05/05/como-utilizar-expresiones-regulares-regex-en-pyt
 https://www.metriplica.com/informes-y-estudios-de-analitica-digital/recursos-herramientas-de- analitica/expresiones-regulares/  
 https://www.youtube.com/watch?v=M72lwALYRJU  
 
-DICCIONARIO
+### DICCIONARIO
 
 expresiones-regulares | procesamiento-del-lenguaje-natural | scrapping | crawling
-PUNTUACIÓN
+
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+### PUNTUACIÓN
 
 Programación: 6
 Redes: 1
