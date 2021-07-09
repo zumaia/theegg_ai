@@ -7,6 +7,14 @@
 
 # El juego de Picachu
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+
 
 En programación no suele ser una buena práctica empezar a programar la solución antes de pensar bien cuál va a ser la arquitectura del programa. Es importante hacer el plano del software antes de empezar a picar código.  
   
@@ -26,6 +34,10 @@ https://www.areatecnologia.com/informatica/ejemplos-de-diagramas-de-flujo.html
 DICCIONARIO  
 
 diagrama-de-flujo | bucles-en-programación
+
+---
+Ver [Diccionario](../diccionario/README.md)
+---
 
 ![](image/FLUJO-COMBATE.gif)
 
