@@ -1,5 +1,12 @@
 # Resolución de más algoritmos
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
 
 El alumno, a estas alturas, debería saber qué es un programa informático y cuál es el camino más correcto para su desarrollo. En cualquier caso e aquí un pequeño recordatorio de buenas prácticas:
 
@@ -36,7 +43,7 @@ c.- [Palíndromos](http://www.nachocabanes.com/retos/reto.php?n=005)
 
 ### #funciones-en-programación #algoritmos #diagrama-de-flujo
 
-LINKS DE INTERÉS
+### LINKS DE INTERÉS
 
 https://www.youtube.com/watch?v=Tu9OQSff-gw
 [![video](https://res.cloudinary.com/marcomontalbano/image/upload/v1613149109/video_to_markdown/images/youtube--Tu9OQSff-gw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Tu9OQSff-gw "video")
@@ -47,11 +54,15 @@ https://www.youtube.com/watch?v=TAyyujKoY6k
 https://www.lucidchart.com/pages/es/que-es-un-diagrama-de-flujo 
 https://www.digitallearning.es/intro-programacion-js/funciones.html
 
-DICCIONARIO  
+### DICCIONARIO  
 
 algoritmo | diagrama-de-flujo | convención-de-programación  
 
-PUNTUACIÓN  
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+### PUNTUACIÓN  
 
 Programación: 3   
 Redes: 1   
