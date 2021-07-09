@@ -1,18 +1,24 @@
 # El algoritmo del lechero
 
-#
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
 El archivo Tarea_22.py contiene el algoritmo en Python que resuelve el problema del lechero.
 
 El programa pide los datos al usuario (no comprueba que los datos de entrada sean "buenos"). Las características de las vacas se almacenan en una lista de colecciones tipo diccionario. Se hacen todas las combinaciones de vacas que puede haber con la librería itertools, y se compara cada combinación, filtrando las que superan el peso permitido del cambión y almacenando la combinación que mayor producción de leche da. Finalmente se muestra el resultado por consola.
 
 Muestro el ejercicio en formato notebook y en formato ejecutable.
-
+#
 
 Tarea_22
 
 Diseñar un algoritmo que resuelva el siguiente problema.
 
 Usted es un original empresario de Azkoitia, y tiene la brillante idea de abrir una tienda de la leche en la Plaza del pueblo. Como es una persona muy prudente, desea que la leche que venderá sea perfectamente natural y fresca, y por esa razón, va a traer unas sanísimas vacas de desde Tolosa. Dispone de un camión con un cierto límite de peso, y un grupo de vacas disponibles para la venta. Cada vaca puede tener un peso distinto, y producir una cantidad diferente de leche al día. Debes elegir qué vacas comprar y llevar en su camión, de modo que pueda maximizar la producción de leche, observando el límite de peso del camión. Python
+
 
 
 
@@ -32,10 +38,7 @@ Debes elegir qué vacas comprar y llevar en su camión, de modo que pueda maximi
 ***Entrada:*** Lista de pesos de las vacas.  
 ***Entrada:*** Lista de la producción de leche por vaca, en litros por día.   
 
-2.- El algoritmo que programes tiene que calcular la siguiente salida: Salida: Cantidad máxima de producción de leche se puede obtener. 
-Fuente: http://www.nachocabanes.com/retos/reto.php?n=07
-
-
+2.- El algoritmo que programes tiene que calcular la siguiente salida: Salida: Cantidad máxima de producción de leche se puede obtener. Fuente: http://www.nachocabanes.com/retos/reto.php?n=07
 Para resolver tus dudas recuerda que puedes utilizar el Foro de The Egg (Booster, el algoritmo de The Egg valora mucho vuestra participación en el Foro) o también podéis utilizar stackoverflow (es un foro muy utilizado para resolver dudas de programación).
 
 ### HASHTAGS (etiquetas de ayuda para búsqueda de información relevante)
@@ -56,11 +59,16 @@ https://www.youtube.com/watch?v=Ry_6DvY9uak
 [![video](https://res.cloudinary.com/marcomontalbano/image/upload/v1613031136/video_to_markdown/images/youtube--Ry_6DvY9uak-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Ry_6DvY9uak "video")
   
 
-DICCIONARIO
+### DICCIONARIO
 
 ada-lovelace | bucles | lenguaje-de-programación
 
-PUNTUACIÓN
+
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+### PUNTUACIÓN
 
 Programación: 3    
 Redes: 1    
