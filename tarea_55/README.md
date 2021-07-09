@@ -1,4 +1,12 @@
 # Línea de comandos en Linux... o Windows  
+
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
   
 Sí, la línea de comandos es esa [pantalla negra](https://www.neoguias.com/wp-content/uploads/2018/03/interprete-de-linea-de-comando.jpg) que la mayoría de los mortales temen. Pero para tí, debería convertirse en tu nuevo amigo. Aprenderás a usar esa oscura [interfaz](https://www.tecnologia-informatica.com/que-es-interfaz/) que todos los hackers usan. Al principio puede parecer un poco aterrador pero realmente es sólo un mensaje en pantalla que espera a que le des órdenes.  
 ![](https://www.neoguias.com/wp-content/uploads/2018/03/interprete-de-linea-de-comando.jpg)  
@@ -34,10 +42,16 @@ LINKS DE INTERÉS
 [https://www.adslzone.net/esenciales/windows-10/comandos-CMD-consola/ ](https://www.adslzone.net/esenciales/windows-10/comandos-CMD-consola/)    
 [https://www.neoguias.com/linea-de-comandos-linux/ ](https://www.neoguias.com/linea-de-comandos-linux/)   
 
-DICCIONARIO  
+### DICCIONARIO  
+
 línea-de-comandos | consola  
     
-PUNTUACIÓN    
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+### PUNTUACIÓN    
    
 Programación: 3  
 Redes: 3  
