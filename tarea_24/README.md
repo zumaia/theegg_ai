@@ -3,6 +3,12 @@
 ### Para ejecutar:
 # $python decimal_a_binary.py
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
 Cabe de decir que TODO es analógico en este Mundo, hasta los ordenadores "digitales" aunque parezca contradictorio ;-)
 
 Los ordenadores no son mas que circuitos eléctricos que funcionan con intensidades y diferencias de tensión. La única diferencia es que están pensados para trabajar en 2 estados:
@@ -36,6 +42,10 @@ https://www.youtube.com/watch?v=9_rpiAScBvk https://www.calculadoraconversor.com
 DICCIONARIO
 
 convertidor-analógico-digital | transistores-bipolares | frecuencia-de-muestreo | sistema-binario | algebra- booleana
+
+---
+Ver [Diccionario](../diccionario/README.md)
+---
 
 PUNTUACIÓN
 
