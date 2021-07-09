@@ -20,6 +20,14 @@ Este es un repositorio donde se encuentran las tareas de la Escuela de Inteligen
 #### [Tarea 43 - SQL](https://github.com/zumaia/theegg_ai/tree/master/tarea_43)
 #### [Tarea 44 - RENDIMIENTO](https://github.com/zumaia/theegg_ai/tree/master/tarea_44)
 #### [Tarea 45 - ALGORITMOS DE BÚSQUEDA](https://github.com/zumaia/theegg_ai/tree/master/tarea_45)
+#### [Tarea 50 - ETICA - IA](https://github.com/zumaia/theegg_ai/tree/master/tarea_50)
 #### [Tarea 51 - SO](https://github.com/zumaia/theegg_ai/tree/master/tarea_51)
 #### [Tarea 55 - LINEA DE COMANDOS](https://github.com/zumaia/theegg_ai/tree/master/tarea_55)
 #### [Tarea 62 - SCRIPTING](https://github.com/zumaia/theegg_ai/tree/master/tarea_62)
+
+### Diccionario 
+
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
