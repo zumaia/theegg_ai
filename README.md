@@ -28,6 +28,6 @@ Este es un repositorio donde se encuentran las tareas de la Escuela de Inteligen
 ### Diccionario 
 
 ---
-Ver [Diccionario](../diccionario/README.md)
+Ver [Diccionario](diccionario/README.md)
 ---
 
