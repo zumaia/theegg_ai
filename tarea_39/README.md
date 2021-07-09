@@ -1,6 +1,14 @@
 # Simulador de redes
 
-Cada ejercicio está detallado en la parte inferior del readme.
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+
+Los ejercicios están descritos en la parte inferior.
 
 En tareas anteriores hemos podido ver cómo funcionan las redes informáticas y cómo hoy en día es cada vez más complicado 
 imaginar que hace no tanto tiempo las computadoras funcionaban como dispositivos aislados unos de otros. 
@@ -60,20 +68,25 @@ Incluimos un par de PDF-s a para ayudaros.
 
 #### #redes-informáticas #internet #packet-tracer #Cisco #simulador
 
-LINKS DE INTERÉS
+### LINKS DE INTERÉS
 
 [![video](https://i.ytimg.com/vi/SHbBso63X38/maxresdefault.jpg)](https://www.youtube.com/watch?v=SHbBso63X38 "video")
 [![video](https://res.cloudinary.com/marcomontalbano/image/upload/v1612954810/video_to_markdown/images/youtube--aR032ROLdro-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=aR032ROLdro "video")
 
 
 
-DICCIONARIO
+### DICCIONARIO
 
 redes-informáticas | Internet  
 
-PUNTUACIÓN
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+### PUNTUACIÓN
 
 Programación: 1  
 Redes: 10  
 Seguridad: 4  
 Algoritmia: 1  
+
