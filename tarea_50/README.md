@@ -1,5 +1,13 @@
 # Inteligencia Artificial Ética
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+
 TheEgg es una Escuela que se quiere construir a partir de unos principios éticos. En la [versión 1.0 de la guía de la Escuela](http://theegg.ai/pdf/The_Egg_guia_cast.pdf) ya se hacía referencia, aunque de manera muy genérica, a los [derechos fundamentales redactados por la Unión Europea](https://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai).
 
 Estaremos de acuerdo con que los derechos fundamentales propuestos por la UE están bien pero son genéricos y no profundizan. La IA es compleja y sus repercusiones son imprevisibles. Existe una gran indefinición en este aspecto, seguramente por falta de criterio y en muchos casos por falta de valentía. Desgraciadamente hoy en día se está utilizando la IA para cuestiones muy poco legítimas desde nuestro punto de vista como por ejemplo: la [guerra](https://techcetera.co/como-inteligencia-artificial-cambia-metodos-de-guerra/) o el [control social](https://www.elsaltodiario.com/control-social/tecnologia-control-social-basada-inteligencia-artificial-presente-75-paises).
@@ -45,7 +53,7 @@ https://www.elespanol.com/invertia/disruptores-innovadores/politica-digital/orga
 https://diarioresponsable.com/noticias/amp/30045-inteligencia-artificial  
   
 
-DICCIONARIO  
+### DICCIONARIO  
 
 Ética | Inteligencia-Artificial | Datos 
 
@@ -53,7 +61,7 @@ DICCIONARIO
 Ver [Diccionario](../diccionario/README.md)
 ---
 
-PUNTUACIÓN  
+### PUNTUACIÓN  
 
 Programación: 1  
 Redes: 3  
