@@ -1,6 +1,10 @@
 # DICCIONARIO
 
-🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
 
 En este apartado detallo como estoy elaborando mi diccionario de terminos.
 
