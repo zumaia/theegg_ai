@@ -1,8 +1,12 @@
 # Algoritmos de búsqueda
 
----------------
-### Ver ejercicio.md o ejercicio.ipynb
----------------
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
 
 Existen algoritmos que permiten buscar un elemento dentro de una colección. Estas operaciones son muy empleadas en computación para la búsqueda de una determinada información de ahí su gran importancia. Es el recopilatorio de un conjunto de instrucciones que están diseñadas para localizar un elemento con ciertas propiedades dentro de una estructura de datos y estas suelen ser bases de datos, arrays, listas, ....
 
@@ -37,7 +41,7 @@ Por supuesto, no te olvides del diccionario.
 ### HASHTAGS (etiquetas de ayuda para búsqueda de información relevante) 
 ### #algoritmo #base-de-datos #búsqueda-secuencial #búsqueda-binaria #notación-Big-O 
 
-LINKS DE INTERÉS  
+### LINKS DE INTERÉS  
 
 https://www.youtube.com/watch?v=HmUpRHn31FU
 [![video](https://res.cloudinary.com/marcomontalbano/image/upload/v1613474576/video_to_markdown/images/youtube--HmUpRHn31FU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=HmUpRHn31FU "video")
@@ -45,11 +49,16 @@ https://k60.kn3.net/4/B/3/6/C/E/05E.gif
 ![](https://k60.kn3.net/4/B/3/6/C/E/05E.gif)
 [https://es.wikipedia.org/wiki/Algoritmo_de_b%C3%BAsqueda_A*](https://es.wikipedia.org/wiki/Algoritmo_de_b%C3%BAsqueda_A*)
 
-DICCIONARIO  
+### DICCIONARIO  
 
 búsqueda-secuencial | búsqueda-binaria | notación-Big-O
 
-PUNTUACIÓN
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+### PUNTUACIÓN
 
 Programación: 3  
 Redes: 1  
