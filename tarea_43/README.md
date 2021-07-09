@@ -2,8 +2,14 @@
 
 ================================  
 Respuesta en documento "respuesta.md"  
+================================
 
-================================   
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
 
 
 En la "Introducción a las bases de datos" hablamos de qué era una Base de Datos (BBDD) y su
@@ -55,7 +61,12 @@ https://www.campusmvp.es/recursos/post/buenas-razones-para-aprender-sql.aspx
 
 SQL | bases-de-datos-relacionales | MySQL| postgreSQL | MongoDB
 
-PUNTUACIÓN
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+### PUNTUACIÓN
 
 Programación: 4  
 Redes: 2  
