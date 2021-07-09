@@ -11,6 +11,14 @@ Para esta tarea es necesario familiarizarse con crontab.
   
 -----
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+
 La fusión perfecta entre programación y el [intérprete de comandos](https://upload.wikimedia.org/wikipedia/commons/b/b0/Ms-dosdir.png) más común de [Linux](https://www.adslzone.net/reportajes/software/que-es-linux/) es el bash
 scripting. Mediante el uso de bash podremos realizar tareas con la computadora que mediante la
 programación clásica no es posible o es más complejo. Bash es una herramienta popular de scripts
