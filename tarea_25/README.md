@@ -1,5 +1,11 @@
 # Paradigma cliente-servidor
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
 
 Las arquitecturas cliente servidor son la base de Internet:  
   
@@ -41,6 +47,10 @@ https://www.youtube.com/watch?v=3yfxKZWvN8k
 DICCIONARIO
 
 arquitectura-cliente-servidor | FTP | servidor-web | IP | DNS | protocolo-TCP/IP
+
+---
+Ver [Diccionario](../diccionario/README.md)
+---
 
 PUNTUACIÓN
 
