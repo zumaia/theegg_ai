@@ -1,5 +1,13 @@
 Aprender a pensar como un programador: Introducción a la POO
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+
 
 ---
 
@@ -97,11 +105,16 @@ LINKS DE INTERÉS
 ![](https://res.cloudinary.com/marcomontalbano/image/upload/v1619721783/video_to_markdown/images/youtube--Nka4JSBgf7I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Nka4JSBgf7I "") 
 [https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/](https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/)    
 
-DICCIONARIO  
+### DICCIONARIO  
 
 Clase | Objeto | Método | Atributo | Instancia | Constructor | Instancia | Encapsulamiento | Herencia  
 
-PUNTUACIÓN  
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+### PUNTUACIÓN  
 
 Programación: 6  
 Redes: 1  
