@@ -1,6 +1,13 @@
 
 # Los sistemas operativos  
 
+---
+### 🖐️ 👷 🖥️ [codigo](./) 💻 🎆 📁 🗄️ 📂
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
 
 Media docena de definiciones sobre sistemas operativos para entrar en calor:  
 
@@ -58,7 +65,7 @@ Verás que la información se organiza de otro modo pero que puede ser tan fáci
 
 ### #sistema-operativo #Android #Windows #Linux #Kernel #Driver #Periférico #Memoria #RAM #ROM #CPU #GPU
 
-LINKS DE INTERÉS
+### LINKS DE INTERÉS
 
 https://www.youtube.com/watch?v=JJM3riqBKec
 [![video](https://res.cloudinary.com/marcomontalbano/image/upload/v1613638691/video_to_markdown/images/youtube--JJM3riqBKec-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=JJM3riqBKec "video")  
@@ -66,11 +73,16 @@ https://www.youtube.com/watch?v=JJM3riqBKec
 [https://www.linuxadictos.com/%C2%BFque-rayos-significa-distro.html](https://www.linuxadictos.com/%C2%BFque-rayos-significa-distro.html)    
 [https://www.gnu.org/philosophy/free-sw.es.html](https://www.gnu.org/philosophy/free-sw.es.html)  
 
-DICCIONARIO  
+### DICCIONARIO  
 
 Sistema-Operativo | Linux | CPU | GPU | Periférico | Terminal | Interfaz  
 
-PUNTUACIÓN  
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+
+### PUNTUACIÓN  
 
 Programación: 1  
 Redes: 6  
