@@ -27,6 +27,7 @@ Sin embargo, si eres capaz de automatizar una tarea repetitiva, no te deberías 
 computadora debería trabajar por tí; suena útil ¿verdad?  
 
 Mediante instrucciones bash el administrador de la computadora:  
+
 1.- Podrá automatizar acciones repetitivas, gracias al uso de expresiones matemáticas, como
 condiciones, bucles, etc.  
 2.- El resultado de estos mismos automatismos llevará a que el sistema operativo sea más automático y
@@ -70,18 +71,24 @@ Tarea:
 ### HASHTAGS (etiquetas de ayuda para búsqueda de información relevante)  
 ### #bash-scripting #shell #linux #unix #consola   
 
-LINKS DE INTERÉS  
+### LINKS DE INTERÉS  
 
 [https://openwebinars.net/blog/que-es-bash-scripting/](https://openwebinars.net/blog/que-es-bash-scripting/)  
 [https://www.hostinger.es/tutoriales/bash-script-linux](https://www.hostinger.es/tutoriales/bash-script-linux)  
 [https://likegeeks.com/es/script-de-bash-tutorial/](https://likegeeks.com/es/script-de-bash-tutorial/)  
 [https://www.atareao.es/tutorial/scripts-en-bash/](https://www.atareao.es/tutorial/scripts-en-bash/)  
 [https://blog.desdelinux.net/shell-scripting-archivo-desktop/](https://blog.desdelinux.net/shell-scripting-archivo-desktop/)  
+[![video](https://res.cloudinary.com/marcomontalbano/image/upload/v1614290258/video_to_markdown/images/youtube--Z7S6Mvl9hHA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Z7S6Mvl9hHA&feature=youtu.be "video")
 
-DICCIONARIO   
+### DICCIONARIO   
+
 Bash | Shell | Script | Interprete | Compilador  
 
-PUNTUACIÓN  
+---
+Ver [Diccionario](../diccionario/README.md)
+---
+
+### PUNTUACIÓN  
 
 Programación: 4  
 Redes: 4  
